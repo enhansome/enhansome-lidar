@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179262358,
             "language": "Shell",
             "last_commit": "2026-07-19T21:00:42Z",
             "owner": "Robotics-BUT",
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 233698846,
                 "language": "C++",
                 "last_commit": "2023-06-11T23:19:29Z",
                 "owner": "Ford",
@@ -50,6 +52,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 375789247,
                 "language": "Python",
                 "last_commit": "2026-08-07T19:10:41Z",
                 "owner": "utiasASRL",
@@ -63,7 +66,7 @@
       "title": "Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -77,6 +80,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8162615,
                 "language": "C++",
                 "last_commit": "2026-08-18T08:22:12Z",
                 "owner": "PointCloudLibrary",
@@ -98,11 +102,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-18T07:03:32Z",
+                "last_commit": "2026-08-19T06:50:19Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13894
+                "stars": 13896
               }
             }
           ]
@@ -119,6 +124,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 106024057,
                 "language": "Python",
                 "last_commit": "2026-08-17T23:02:36Z",
                 "owner": "pyg-team",
@@ -140,11 +146,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 217433767,
                 "language": "Python",
                 "last_commit": "2026-08-19T05:38:23Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9949
+                "stars": 9950
               }
             }
           ]
@@ -161,11 +168,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 221787282,
                 "language": "Python",
                 "last_commit": "2026-08-14T22:28:19Z",
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
-                "stars": 5159
+                "stars": 5158
               }
             }
           ]
@@ -182,8 +190,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-19T04:16:30Z",
+                "last_commit": "2026-08-19T12:32:53Z",
                 "owner": "pyvista",
                 "repo": "pyvista",
                 "stars": 3774
@@ -203,6 +212,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 69888255,
                 "language": "Python",
                 "last_commit": "2026-07-10T08:46:17Z",
                 "owner": "daavoo",
@@ -224,6 +234,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 374983317,
                 "language": "Python",
                 "last_commit": "2026-05-12T07:15:13Z",
                 "owner": "virtual-vehicle",
@@ -245,6 +256,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 25419858,
                 "language": "C++",
                 "last_commit": "2026-08-10T13:46:11Z",
                 "owner": "LAStools",
@@ -258,7 +270,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -272,11 +284,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 96246170,
                 "language": "C++",
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26795
+                "stars": 26797
               }
             }
           ]
@@ -293,6 +306,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 526567401,
                 "language": "Verilog",
                 "last_commit": "2025-06-16T12:59:32Z",
                 "owner": "alfa-project",
@@ -306,693 +320,733 @@
       "title": "Frameworks"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Iterative closest point (ICP)",
+              "description": "The must-have algorithm for feature matching applications (ICP).",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": "libpointmatcher, a modular library implementing the ICP algorithm.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1266625,
+                    "language": "C++",
+                    "last_commit": "2025-10-29T18:18:13Z",
+                    "owner": "norlab-ulaval",
+                    "repo": "libpointmatcher",
+                    "stars": 1827
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": "simpleICP C++ /Julia / Matlab / Octave / Python implementation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265183697,
+                    "language": "Python",
+                    "last_commit": "2026-05-08T09:32:15Z",
+                    "owner": "pglira",
+                    "repo": "simpleICP",
+                    "stars": 350
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "KISS-ICP",
+              "description": "In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 536134468,
+                    "language": "C++",
+                    "last_commit": "2026-06-09T14:20:13Z",
+                    "owner": "PRBonn",
+                    "repo": "kiss-icp",
+                    "stars": 2298
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Basic matching algorithms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "RangeNet++",
+              "description": "Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 214201447,
+                    "language": "C++",
+                    "last_commit": "2022-07-11T09:33:33Z",
+                    "owner": "PRBonn",
+                    "repo": "rangenet_lib",
+                    "stars": 359
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "PolarNet",
+              "description": "An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229334809,
+                    "language": "Python",
+                    "last_commit": "2021-05-19T17:08:17Z",
+                    "owner": "edwardzhou130",
+                    "repo": "PolarSeg",
+                    "stars": 419
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Frustum PointNets",
+              "description": "Frustum PointNets for 3D Object Detection from RGB-D Data.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 128236911,
+                    "language": "Python",
+                    "last_commit": "2020-03-24T20:42:38Z",
+                    "owner": "charlesq34",
+                    "repo": "frustum-pointnets",
+                    "stars": 1668
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LIDAR-MOS",
+              "description": "Moving Object Segmentation in 3D LIDAR Data",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 378589251,
+                    "language": "Python",
+                    "last_commit": "2022-12-21T12:52:58Z",
+                    "owner": "PRBonn",
+                    "repo": "LiDAR-MOS",
+                    "stars": 690
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SuperPoint Graph",
+              "description": "Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 111715635,
+                    "language": "Python",
+                    "last_commit": "2023-07-19T20:50:48Z",
+                    "owner": "loicland",
+                    "repo": "superpoint_graph",
+                    "stars": 801
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SuperPoint Transformer",
+              "description": "Efficient 3D Semantic Segmentation with Superpoint Transformer",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 654209013,
+                    "language": "Python",
+                    "last_commit": "2026-04-21T16:42:35Z",
+                    "owner": "drprojects",
+                    "repo": "superpoint_transformer",
+                    "stars": 1048
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RandLA-Net",
+              "description": "Efficient Semantic Segmentation of Large-Scale Point Clouds",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 224029310,
+                    "language": "Python",
+                    "last_commit": "2023-07-11T22:42:23Z",
+                    "owner": "QingyongHu",
+                    "repo": "RandLA-Net",
+                    "stars": 1559
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Automatic labelling",
+              "description": "Automatic labelling of urban point clouds using data fusion",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 376015896,
+                    "language": "Python",
+                    "last_commit": "2023-02-15T10:06:42Z",
+                    "owner": "Amsterdam-AI-Team",
+                    "repo": "Urban_PointCloud_Processing",
+                    "stars": 189
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semantic segmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Plane Seg",
+              "description": "ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221201420,
+                "language": "C++",
+                "last_commit": "2021-12-08T18:10:50Z",
+                "owner": "ori-drs",
+                "repo": "plane_seg",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "LineFit Graph",
+              "description": "Line fitting-based fast ground segmentation for horizontal 3D LiDAR data",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71766082,
+                    "language": "C++",
+                    "last_commit": "2024-07-26T16:25:41Z",
+                    "owner": "lorenwel",
+                    "repo": "linefit_ground_segmentation",
+                    "stars": 808
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Patchwork",
+              "description": "Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 377702573,
+                    "language": "C++",
+                    "last_commit": "2026-05-21T10:28:45Z",
+                    "owner": "LimHyungTae",
+                    "repo": "patchwork",
+                    "stars": 588
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Patchwork++",
+              "description": "Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 518067145,
+                    "language": "C++",
+                    "last_commit": "2026-05-21T03:16:07Z",
+                    "owner": "url-kaist",
+                    "repo": "patchwork-plusplus-ros",
+                    "stars": 448
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GSeg3D",
+              "description": "High-precision grid-based ground segmentation for LiDAR point clouds designed for safety-critical robotics and autonomous driving.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ROS2 integration",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1162480312,
+                    "language": "C++",
+                    "last_commit": "2026-07-28T16:30:54Z",
+                    "owner": "dfki-ric",
+                    "repo": "ground_segmentation_ros2",
+                    "stars": 105
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1162479933,
+                    "language": "C++",
+                    "last_commit": "2026-07-28T16:04:27Z",
+                    "owner": "dfki-ric",
+                    "repo": "ground_segmentation",
+                    "stars": 102
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ground segmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cartographer",
+              "description": "Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64732358,
+                "language": "C++",
+                "last_commit": "2024-01-05T19:21:01Z",
+                "owner": "cartographer-project",
+                "repo": "cartographer",
+                "stars": 7948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LeGO-LOAM",
+              "description": "A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ROS 2 verison on different repo: GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 245375842,
+                    "language": "C++",
+                    "last_commit": "2024-04-11T06:37:37Z",
+                    "owner": "eperdices",
+                    "repo": "LeGO-LOAM-SR",
+                    "stars": 61
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 139863328,
+                "language": "C++",
+                "last_commit": "2024-08-17T07:20:25Z",
+                "owner": "RobustFieldAutonomyLab",
+                "repo": "LeGO-LOAM",
+                "stars": 2753
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "SuMa++",
+              "description": "LiDAR-based Semantic SLAM.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 199056069,
+                    "language": "C++",
+                    "last_commit": "2024-03-12T16:31:46Z",
+                    "owner": "PRBonn",
+                    "repo": "semantic_suma",
+                    "stars": 1014
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "OverlapNet",
+              "description": "Loop Closing for LiDAR-based SLAM.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 263319282,
+                    "language": "Python",
+                    "last_commit": "2023-03-24T22:59:34Z",
+                    "owner": "PRBonn",
+                    "repo": "OverlapNet",
+                    "stars": 734
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LIO-SAM",
+              "description": "Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 276269866,
+                    "language": "C++",
+                    "last_commit": "2025-02-14T10:05:51Z",
+                    "owner": "TixiaoShan",
+                    "repo": "LIO-SAM",
+                    "stars": 4889
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Removert",
+              "description": "Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 290675975,
+                    "language": "C++",
+                    "last_commit": "2026-04-25T22:50:25Z",
+                    "owner": "gisbi-kim",
+                    "repo": "removert",
+                    "stars": 646
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RESPLE",
+              "description": "Recursive Spline Estimation for LiDAR-Based Odometry",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 967000652,
+                    "language": "C++",
+                    "last_commit": "2026-06-18T21:13:02Z",
+                    "owner": "ASIG-X",
+                    "repo": "RESPLE",
+                    "stars": 229
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "KISS-SLAM",
+              "description": "KISS-SLAM is a simple, robust, and accurate 3D LiDAR SLAM system that just works.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 949854882,
+                    "language": "Python",
+                    "last_commit": "2026-08-11T08:25:26Z",
+                    "owner": "PRBonn",
+                    "repo": "kiss-slam",
+                    "stars": 530
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "FAST-LIO2",
+              "description": "Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 303308200,
+                    "language": "C++",
+                    "last_commit": "2025-01-15T10:23:34Z",
+                    "owner": "hku-mars",
+                    "repo": "FAST_LIO",
+                    "stars": 5074
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MOLA",
+              "description": "Modular system for Localization and Mapping, providing LiDAR Odometry (LO), LiDAR-inertial Odometry (LIO), SLAM, localization-only modes, and geo-referencing.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156289428,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T10:23:33Z",
+                    "owner": "MOLAorg",
+                    "repo": "mola",
+                    "stars": 992
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Learning to Optimally Segment Point Clouds",
+              "description": "By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 240370523,
+                    "language": "Python",
+                    "last_commit": "2021-04-09T12:21:08Z",
+                    "owner": "peiyunh",
+                    "repo": "opcseg",
+                    "stars": 26
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "What You See is What You Get: Exploiting Visibility for 3D Object Detection",
+              "description": "By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 228275778,
+                    "language": "Python",
+                    "last_commit": "2020-10-23T20:57:46Z",
+                    "owner": "peiyunh",
+                    "repo": "wysiwyg",
+                    "stars": 118
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "urban_road_filter",
+              "description": "Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 374577863,
+                    "language": "C++",
+                    "last_commit": "2026-07-06T10:50:51Z",
+                    "owner": "jkk-research",
+                    "repo": "urban_road_filter",
+                    "stars": 356
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object detection and object tracking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenCalib",
+              "description": "A Multi-sensor Calibration Toolbox for Autonomous Driving",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436532699,
+                "language": "C++",
+                "last_commit": "2024-06-17T09:06:58Z",
+                "owner": "PJLab-ADG",
+                "repo": "SensorsCalibration",
+                "stars": 3194
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "direct_visual_lidar_calibration",
+              "description": "General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 535907213,
+                    "language": "C++",
+                    "last_commit": "2026-07-22T00:13:43Z",
+                    "owner": "koide3",
+                    "repo": "direct_visual_lidar_calibration",
+                    "stars": 1499
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LIDAR-other-sensor calibration"
+        }
+      ],
       "title": "Algorithms"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Iterative closest point (ICP)",
-          "description": "The must-have algorithm for feature matching applications (ICP).",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": "libpointmatcher, a modular library implementing the ICP algorithm.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2025-10-29T18:18:13Z",
-                "owner": "norlab-ulaval",
-                "repo": "libpointmatcher",
-                "stars": 1827
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": "simpleICP C++ /Julia / Matlab / Octave / Python implementation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-08T09:32:15Z",
-                "owner": "pglira",
-                "repo": "simpleICP",
-                "stars": 350
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "KISS-ICP",
-          "description": "In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-06-09T14:20:13Z",
-                "owner": "PRBonn",
-                "repo": "kiss-icp",
-                "stars": 2298
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Basic matching algorithms"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "RangeNet++",
-          "description": "Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2022-07-11T09:33:33Z",
-                "owner": "PRBonn",
-                "repo": "rangenet_lib",
-                "stars": 359
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PolarNet",
-          "description": "An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2021-05-19T17:08:17Z",
-                "owner": "edwardzhou130",
-                "repo": "PolarSeg",
-                "stars": 419
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Frustum PointNets",
-          "description": "Frustum PointNets for 3D Object Detection from RGB-D Data.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2020-03-24T20:42:38Z",
-                "owner": "charlesq34",
-                "repo": "frustum-pointnets",
-                "stars": 1668
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "LIDAR-MOS",
-          "description": "Moving Object Segmentation in 3D LIDAR Data",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-12-21T12:52:58Z",
-                "owner": "PRBonn",
-                "repo": "LiDAR-MOS",
-                "stars": 690
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SuperPoint Graph",
-          "description": "Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-07-19T20:50:48Z",
-                "owner": "loicland",
-                "repo": "superpoint_graph",
-                "stars": 801
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SuperPoint Transformer",
-          "description": "Efficient 3D Semantic Segmentation with Superpoint Transformer",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-04-21T16:42:35Z",
-                "owner": "drprojects",
-                "repo": "superpoint_transformer",
-                "stars": 1048
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RandLA-Net",
-          "description": "Efficient Semantic Segmentation of Large-Scale Point Clouds",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-07-11T22:42:23Z",
-                "owner": "QingyongHu",
-                "repo": "RandLA-Net",
-                "stars": 1559
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Automatic labelling",
-          "description": "Automatic labelling of urban point clouds using data fusion",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-02-15T10:06:42Z",
-                "owner": "Amsterdam-AI-Team",
-                "repo": "Urban_PointCloud_Processing",
-                "stars": 189
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Semantic segmentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Plane Seg",
-          "description": "ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-12-08T18:10:50Z",
-            "owner": "ori-drs",
-            "repo": "plane_seg",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "LineFit Graph",
-          "description": "Line fitting-based fast ground segmentation for horizontal 3D LiDAR data",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2024-07-26T16:25:41Z",
-                "owner": "lorenwel",
-                "repo": "linefit_ground_segmentation",
-                "stars": 808
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Patchwork",
-          "description": "Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-05-21T10:28:45Z",
-                "owner": "LimHyungTae",
-                "repo": "patchwork",
-                "stars": 588
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Patchwork++",
-          "description": "Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-05-21T03:16:07Z",
-                "owner": "url-kaist",
-                "repo": "patchwork-plusplus-ros",
-                "stars": 448
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "GSeg3D",
-          "description": "High-precision grid-based ground segmentation for LiDAR point clouds designed for safety-critical robotics and autonomous driving.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ROS2 integration",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-07-28T16:30:54Z",
-                "owner": "dfki-ric",
-                "repo": "ground_segmentation_ros2",
-                "stars": 105
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-07-28T16:04:27Z",
-                "owner": "dfki-ric",
-                "repo": "ground_segmentation",
-                "stars": 102
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Ground segmentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cartographer",
-          "description": "Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-01-05T19:21:01Z",
-            "owner": "cartographer-project",
-            "repo": "cartographer",
-            "stars": 7948
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LeGO-LOAM",
-          "description": "A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ROS 2 verison on different repo: GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2024-04-11T06:37:37Z",
-                "owner": "eperdices",
-                "repo": "LeGO-LOAM-SR",
-                "stars": 61
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-17T07:20:25Z",
-            "owner": "RobustFieldAutonomyLab",
-            "repo": "LeGO-LOAM",
-            "stars": 2753
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "SuMa++",
-          "description": "LiDAR-based Semantic SLAM.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2024-03-12T16:31:46Z",
-                "owner": "PRBonn",
-                "repo": "semantic_suma",
-                "stars": 1014
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "OverlapNet",
-          "description": "Loop Closing for LiDAR-based SLAM.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-03-24T22:59:34Z",
-                "owner": "PRBonn",
-                "repo": "OverlapNet",
-                "stars": 734
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "LIO-SAM",
-          "description": "Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2025-02-14T10:05:51Z",
-                "owner": "TixiaoShan",
-                "repo": "LIO-SAM",
-                "stars": 4888
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Removert",
-          "description": "Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-04-25T22:50:25Z",
-                "owner": "gisbi-kim",
-                "repo": "removert",
-                "stars": 646
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RESPLE",
-          "description": "Recursive Spline Estimation for LiDAR-Based Odometry",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-06-18T21:13:02Z",
-                "owner": "ASIG-X",
-                "repo": "RESPLE",
-                "stars": 229
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "KISS-SLAM",
-          "description": "KISS-SLAM is a simple, robust, and accurate 3D LiDAR SLAM system that just works.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-11T08:25:26Z",
-                "owner": "PRBonn",
-                "repo": "kiss-slam",
-                "stars": 530
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "FAST-LIO2",
-          "description": "Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2025-01-15T10:23:34Z",
-                "owner": "hku-mars",
-                "repo": "FAST_LIO",
-                "stars": 5073
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MOLA",
-          "description": "Modular system for Localization and Mapping, providing LiDAR Odometry (LO), LiDAR-inertial Odometry (LIO), SLAM, localization-only modes, and geo-referencing.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-08-15T14:30:20Z",
-                "owner": "MOLAorg",
-                "repo": "mola",
-                "stars": 991
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Learning to Optimally Segment Point Clouds",
-          "description": "By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2021-04-09T12:21:08Z",
-                "owner": "peiyunh",
-                "repo": "opcseg",
-                "stars": 26
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "What You See is What You Get: Exploiting Visibility for 3D Object Detection",
-          "description": "By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2020-10-23T20:57:46Z",
-                "owner": "peiyunh",
-                "repo": "wysiwyg",
-                "stars": 118
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "urban_road_filter",
-          "description": "Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-07-06T10:50:51Z",
-                "owner": "jkk-research",
-                "repo": "urban_road_filter",
-                "stars": 356
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Object detection and object tracking"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenCalib",
-          "description": "A Multi-sensor Calibration Toolbox for Autonomous Driving",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-06-17T09:06:58Z",
-            "owner": "PJLab-ADG",
-            "repo": "SensorsCalibration",
-            "stars": 3193
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "direct_visual_lidar_calibration",
-          "description": "General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-07-22T00:13:43Z",
-                "owner": "koide3",
-                "repo": "direct_visual_lidar_calibration",
-                "stars": 1498
-              }
-            }
-          ]
-        }
-      ],
-      "title": "LIDAR-other-sensor calibration"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1006,6 +1060,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 498933067,
                 "language": "C#",
                 "last_commit": "2023-04-10T22:06:10Z",
                 "owner": "OSSDC",
@@ -1016,6 +1071,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 498933067,
             "language": "C#",
             "last_commit": "2023-04-10T22:06:10Z",
             "owner": "OSSDC",
@@ -1035,6 +1091,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 256913495,
                 "language": "C++",
                 "last_commit": "2024-12-03T13:17:30Z",
                 "owner": "gazebosim",
@@ -1056,8 +1113,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-18T21:32:07Z",
+                "last_commit": "2026-08-19T10:22:56Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
                 "stars": 14302
@@ -1077,6 +1135,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 139499767,
                 "language": "C#",
                 "last_commit": "2023-04-04T21:17:55Z",
                 "owner": "lgsvl",
@@ -1098,6 +1157,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 81887991,
                 "language": "C++",
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
@@ -1119,6 +1179,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 551179179,
                 "language": "C#",
                 "last_commit": "2026-05-13T23:00:51Z",
                 "owner": "autowarefoundation",
@@ -1132,7 +1193,7 @@
       "title": "Simulators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1141,11 +1202,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21872392,
             "language": "Python",
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74067
+            "stars": 74070
           }
         },
         {
@@ -1155,11 +1217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28723659,
             "language": null,
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28776
+            "stars": 28778
           }
         },
         {
@@ -1169,11 +1232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29357796,
             "language": null,
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23503
+            "stars": 23504
           }
         },
         {
@@ -1183,11 +1247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29906842,
             "language": "Python",
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 15895
+            "stars": 15899
           }
         },
         {
@@ -1197,11 +1262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40465212,
             "language": null,
             "last_commit": "2023-05-25T22:25:44Z",
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9915
+            "stars": 9916
           }
         },
         {
@@ -1211,6 +1277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64177015,
             "language": null,
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
@@ -1225,6 +1292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46938122,
             "language": null,
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
@@ -1239,6 +1307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64367335,
             "language": null,
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
@@ -1253,6 +1322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183274427,
             "language": null,
             "last_commit": "2023-05-19T04:34:48Z",
             "owner": "Yochengliu",
@@ -1267,11 +1337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56404753,
             "language": "Python",
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3017
+            "stars": 3018
           }
         },
         {
@@ -1281,11 +1352,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105514647,
             "language": null,
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2130
+            "stars": 2129
           }
         },
         {
@@ -1295,6 +1367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133256832,
             "language": null,
             "last_commit": "2024-12-13T04:29:23Z",
             "owner": "youngguncho",
@@ -1309,11 +1382,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255347464,
             "language": null,
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1322
+            "stars": 1323
           }
         },
         {
@@ -1323,6 +1397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373033266,
             "language": null,
             "last_commit": "2024-08-20T01:42:49Z",
             "owner": "Deephome",
@@ -1337,6 +1412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828727289,
             "language": null,
             "last_commit": "2026-08-08T08:06:12Z",
             "owner": "sjtuyinjie",
@@ -1351,6 +1427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774038484,
             "language": null,
             "last_commit": "2024-10-02T00:29:04Z",
             "owner": "hogyun2",
@@ -1365,6 +1442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825506334,
             "language": null,
             "last_commit": "2025-05-06T12:45:39Z",
             "owner": "neng-wang",
@@ -1376,7 +1454,7 @@
       "title": "Related awesome"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1385,11 +1463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142265725,
             "language": "JavaScript",
             "last_commit": "2024-09-18T15:04:01Z",
             "owner": "Hitachi-Automotive-And-Industry-Lab",
             "repo": "semantic-segmentation-editor",
-            "stars": 1969
+            "stars": 1970
           }
         },
         {
@@ -1399,6 +1478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108152107,
             "language": "C#",
             "last_commit": "2022-08-23T11:11:53Z",
             "owner": "keijiro",
@@ -1413,6 +1493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99435028,
             "language": "Python",
             "last_commit": "2026-02-16T15:04:38Z",
             "owner": "SBCV",
@@ -1427,6 +1508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20754248,
             "language": "Python",
             "last_commit": "2023-07-04T22:23:57Z",
             "owner": "uhlik",
@@ -1441,6 +1523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153326558,
             "language": "TypeScript",
             "last_commit": "2024-03-07T21:28:53Z",
             "owner": "walzimmer",
@@ -1455,6 +1538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139361086,
             "language": "C#",
             "last_commit": "2021-01-17T00:58:10Z",
             "owner": "marian42",
@@ -1469,6 +1553,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 403791515,
             "language": "Swift",
             "last_commit": "2023-07-01T23:45:13Z",
             "owner": "philipturner",
@@ -1488,6 +1573,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 875611794,
                 "language": "C++",
                 "last_commit": "2024-10-20T19:56:35Z",
                 "owner": "Geekgineer",
@@ -1498,6 +1584,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 875611794,
             "language": "C++",
             "last_commit": "2024-10-20T19:56:35Z",
             "owner": "Geekgineer",
@@ -1517,6 +1604,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 830659305,
                 "language": null,
                 "last_commit": "2024-07-18T21:29:12Z",
                 "owner": "foxglove",
@@ -1538,6 +1626,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 750808157,
                 "language": "TypeScript",
                 "last_commit": "2026-08-18T14:43:40Z",
                 "owner": "lichtblick-suite",
@@ -1559,11 +1648,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 479289739,
                 "language": "Rust",
-                "last_commit": "2026-08-19T04:20:53Z",
+                "last_commit": "2026-08-19T11:46:54Z",
                 "owner": "rerun-io",
                 "repo": "rerun",
-                "stars": 11319
+                "stars": 11322
               }
             }
           ]
@@ -1580,6 +1670,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 73027304,
                 "language": "C++",
                 "last_commit": "2026-08-12T05:14:56Z",
                 "owner": "cnr-isti-vclab",
@@ -1594,8 +1685,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:42:52.197Z",
+    "last_updated": "2026-08-19T12:38:03.644Z",
     "original_repository": "szenergy/awesome-lidar",
+    "original_repository_id": 255347464,
     "original_repository_sha": "35b8c40694f878a1710d3a1fecee7cbd73917301",
     "enhanced_repository": "enhansome/enhansome-lidar",
     "enhanced_repository_description": null,
