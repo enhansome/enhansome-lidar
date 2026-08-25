@@ -378,7 +378,7 @@
                     "last_commit": "2026-06-09T14:20:13Z",
                     "owner": "PRBonn",
                     "repo": "kiss-icp",
-                    "stars": 2301
+                    "stars": 2302
                   }
                 }
               ]
@@ -671,7 +671,7 @@
                     "last_commit": "2026-07-28T16:30:54Z",
                     "owner": "dfki-ric",
                     "repo": "ground_segmentation_ros2",
-                    "stars": 105
+                    "stars": 106
                   }
                 },
                 {
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16124
+            "stars": 16126
           }
         },
         {
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:07.795Z",
+    "last_updated": "2026-08-25T06:04:09.011Z",
     "original_repository": "szenergy/awesome-lidar",
     "original_repository_id": 255347464,
     "original_repository_sha": "35b8c40694f878a1710d3a1fecee7cbd73917301",
