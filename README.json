@@ -85,7 +85,7 @@
                 "last_commit": "2026-08-18T08:22:12Z",
                 "owner": "PointCloudLibrary",
                 "repo": "pcl",
-                "stars": 11097
+                "stars": 11099
               }
             }
           ]
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:35:26Z",
+                "last_commit": "2026-08-26T04:48:47Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13909
+                "stars": 13911
               }
             }
           ]
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24030
+                "stars": 24031
               }
             }
           ]
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-24T21:35:41Z",
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
-                "stars": 5159
+                "stars": 5160
               }
             }
           ]
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:34:42Z",
+                "last_commit": "2026-08-26T04:54:13Z",
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3783
+                "stars": 3784
               }
             }
           ]
@@ -289,7 +289,7 @@
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26803
+                "stars": 26806
               }
             }
           ]
@@ -710,7 +710,7 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7947
+                "stars": 7948
               }
             },
             {
@@ -805,7 +805,7 @@
                     "last_commit": "2025-02-14T10:05:51Z",
                     "owner": "TixiaoShan",
                     "repo": "LIO-SAM",
-                    "stars": 4893
+                    "stars": 4894
                   }
                 }
               ]
@@ -893,7 +893,7 @@
                     "last_commit": "2025-01-15T10:23:34Z",
                     "owner": "hku-mars",
                     "repo": "FAST_LIO",
-                    "stars": 5091
+                    "stars": 5097
                   }
                 }
               ]
@@ -912,10 +912,10 @@
                     "archived": false,
                     "id": 156289428,
                     "language": "C++",
-                    "last_commit": "2026-08-22T21:45:26Z",
+                    "last_commit": "2026-08-25T16:27:33Z",
                     "owner": "MOLAorg",
                     "repo": "mola",
-                    "stars": 996
+                    "stars": 997
                   }
                 }
               ]
@@ -1032,7 +1032,7 @@
                     "last_commit": "2026-07-22T00:13:43Z",
                     "owner": "koide3",
                     "repo": "direct_visual_lidar_calibration",
-                    "stars": 1504
+                    "stars": 1505
                   }
                 }
               ]
@@ -1115,10 +1115,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:03:42Z",
+                "last_commit": "2026-08-25T17:53:51Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14319
+                "stars": 14325
               }
             }
           ]
@@ -1140,7 +1140,7 @@
                 "last_commit": "2023-04-04T21:17:55Z",
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2456
+                "stars": 2457
               }
             }
           ]
@@ -1162,7 +1162,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18418
+                "stars": 18422
               }
             }
           ]
@@ -1207,7 +1207,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74157
           }
         },
         {
@@ -1222,7 +1222,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28807
+            "stars": 28810
           }
         },
         {
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16126
+            "stars": 16182
           }
         },
         {
@@ -1282,7 +1282,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8062
+            "stars": 8065
           }
         },
         {
@@ -1297,7 +1297,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6978
+            "stars": 6981
           }
         },
         {
@@ -1312,7 +1312,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4521
+            "stars": 4525
           }
         },
         {
@@ -1339,10 +1339,10 @@
             "archived": false,
             "id": 56404753,
             "language": "Python",
-            "last_commit": "2026-08-06T23:31:04Z",
+            "last_commit": "2026-08-25T20:20:58Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3026
+            "stars": 3027
           }
         },
         {
@@ -1387,7 +1387,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1329
+            "stars": 1331
           }
         },
         {
@@ -1402,7 +1402,7 @@
             "last_commit": "2024-08-20T01:42:49Z",
             "owner": "Deephome",
             "repo": "Awesome-LiDAR-Camera-Calibration",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -1498,7 +1498,7 @@
             "last_commit": "2026-02-16T15:04:38Z",
             "owner": "SBCV",
             "repo": "Blender-Addon-Photogrammetry-Importer",
-            "stars": 1355
+            "stars": 1356
           }
         },
         {
@@ -1631,7 +1631,7 @@
                 "last_commit": "2026-08-24T15:26:59Z",
                 "owner": "lichtblick-suite",
                 "repo": "lichtblick",
-                "stars": 1073
+                "stars": 1077
               }
             }
           ]
@@ -1650,10 +1650,10 @@
                 "archived": false,
                 "id": 479289739,
                 "language": "Rust",
-                "last_commit": "2026-08-24T22:42:21Z",
+                "last_commit": "2026-08-25T21:01:40Z",
                 "owner": "rerun-io",
                 "repo": "rerun",
-                "stars": 11346
+                "stars": 11359
               }
             }
           ]
@@ -1672,10 +1672,10 @@
                 "archived": false,
                 "id": 73027304,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:07:19Z",
+                "last_commit": "2026-08-25T20:38:52Z",
                 "owner": "cnr-isti-vclab",
                 "repo": "meshlab",
-                "stars": 5799
+                "stars": 5800
               }
             }
           ]
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:09.011Z",
+    "last_updated": "2026-08-26T05:46:47.920Z",
     "original_repository": "szenergy/awesome-lidar",
     "original_repository_id": 255347464,
     "original_repository_sha": "35b8c40694f878a1710d3a1fecee7cbd73917301",
