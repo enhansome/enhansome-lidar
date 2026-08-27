@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-27T06:32:17Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13917
+                "stars": 13919
               }
             }
           ]
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24037
+                "stars": 24039
               }
             }
           ]
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 217433767,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:50:10Z",
+                "last_commit": "2026-08-27T13:35:35Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
                 "stars": 9956
@@ -192,7 +192,7 @@
                 "archived": false,
                 "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:43:17Z",
+                "last_commit": "2026-08-27T15:58:50Z",
                 "owner": "pyvista",
                 "repo": "pyvista",
                 "stars": 3787
@@ -338,7 +338,7 @@
                     "archived": false,
                     "id": 1266625,
                     "language": "C++",
-                    "last_commit": "2025-10-29T18:18:13Z",
+                    "last_commit": "2026-08-27T14:20:25Z",
                     "owner": "norlab-ulaval",
                     "repo": "libpointmatcher",
                     "stars": 1828
@@ -1118,7 +1118,7 @@
                 "last_commit": "2026-08-27T09:24:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14328
+                "stars": 14329
               }
             }
           ]
@@ -1204,10 +1204,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
+            "stars": 74180
           }
         },
         {
@@ -1222,7 +1222,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28814
+            "stars": 28816
           }
         },
         {
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16213
+            "stars": 16220
           }
         },
         {
@@ -1282,7 +1282,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8068
+            "stars": 8069
           }
         },
         {
@@ -1297,7 +1297,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6983
+            "stars": 6984
           }
         },
         {
@@ -1312,7 +1312,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4530
+            "stars": 4531
           }
         },
         {
@@ -1628,10 +1628,10 @@
                 "archived": false,
                 "id": 750808157,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:38:15Z",
+                "last_commit": "2026-08-27T15:39:16Z",
                 "owner": "lichtblick-suite",
                 "repo": "lichtblick",
-                "stars": 1081
+                "stars": 1082
               }
             }
           ]
@@ -1650,7 +1650,7 @@
                 "archived": false,
                 "id": 479289739,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:08:23Z",
+                "last_commit": "2026-08-27T15:49:06Z",
                 "owner": "rerun-io",
                 "repo": "rerun",
                 "stars": 11363
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:01.738Z",
+    "last_updated": "2026-08-27T16:26:59.128Z",
     "original_repository_info": {
       "archived": false,
       "id": 255347464,
