@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Navigation and localisation dataset for self driving cars and autonomous robots",
+            "homepage": null,
             "id": 179262358,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-19T21:00:42Z",
+            "open_issues": 1,
             "owner": "Robotics-BUT",
             "repo": "Brno-Urban-Dataset",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous Vehicle Seasonal Dataset",
+                "homepage": null,
                 "id": 233698846,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-06-11T23:19:29Z",
+                "open_issues": 12,
                 "owner": "Ford",
                 "repo": "AVData",
-                "stars": 309
+                "stars": 309,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -54,12 +64,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Devkit for the Boreas autonomous driving dataset.",
+                "homepage": null,
                 "id": 375789247,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-07T19:10:41Z",
+                "open_issues": 5,
                 "owner": "utiasASRL",
                 "repo": "pyboreas",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -83,12 +98,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Point Cloud Library (PCL)",
+                "homepage": "https://pointclouds.org/",
                 "id": 8162615,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:15:22Z",
+                "open_issues": 579,
                 "owner": "PointCloudLibrary",
                 "repo": "pcl",
-                "stars": 11103
+                "stars": 11103,
+                "topics": [
+                  "c-plus-plus",
+                  "computer-vision",
+                  "cpp",
+                  "pcl",
+                  "point-cloud",
+                  "pointcloud"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -106,12 +133,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open3D: A Modern Library for 3D Data Processing",
+                "homepage": "http://www.open3d.org",
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-28T07:07:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:56:11Z",
+                "open_issues": 1304,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13925
+                "stars": 13925,
+                "topics": [
+                  "3d",
+                  "3d-perception",
+                  "arm",
+                  "computer-graphics",
+                  "cpp",
+                  "cuda",
+                  "gpu",
+                  "gui",
+                  "machine-learning",
+                  "mesh-processing",
+                  "odometry",
+                  "opengl",
+                  "pointcloud",
+                  "python",
+                  "pytorch",
+                  "reconstruction",
+                  "registration",
+                  "rendering",
+                  "tensorflow",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -129,12 +182,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Neural Network Library for PyTorch",
+                "homepage": "https://pyg.org",
                 "id": 106024057,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T20:53:29Z",
+                "open_issues": 1318,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24043
+                "stars": 24043,
+                "topics": [
+                  "deep-learning",
+                  "geometric-deep-learning",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -152,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+                "homepage": "https://pytorch3d.org/",
                 "id": 217433767,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T13:35:35Z",
+                "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9958
+                "stars": 9958,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -175,12 +244,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Library for Accelerating 3D Deep Learning Research",
+                "homepage": null,
                 "id": 221787282,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:35:41Z",
+                "open_issues": 28,
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
-                "stars": 5161
+                "stars": 5161,
+                "topics": [
+                  "3d-deep-learning",
+                  "artificial-intelligence",
+                  "camera-api",
+                  "cuda",
+                  "differentiable-lighting",
+                  "differentiable-rendering",
+                  "gaussian-splatting",
+                  "interactive-visualizations",
+                  "neural-networks",
+                  "nvidia-warp",
+                  "physics-simulation",
+                  "pytorch",
+                  "rasterization"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -198,12 +286,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D visualization and mesh analysis for science and engineering",
+                "homepage": "https://docs.pyvista.org",
                 "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-28T17:23:51Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:32:35Z",
+                "open_issues": 593,
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3787
+                "stars": 3788,
+                "topics": [
+                  "3d",
+                  "finite-element-analysis",
+                  "finite-elements",
+                  "hacktoberfest",
+                  "mesh",
+                  "mesh-processing",
+                  "meshviewer",
+                  "plotting",
+                  "python",
+                  "scientific-visualization",
+                  "visualization",
+                  "vtk"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -221,12 +327,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pyntcloud is a Python library for working with 3D point clouds.",
+                "homepage": "http://pyntcloud.readthedocs.io",
                 "id": 69888255,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-10T08:46:17Z",
+                "open_issues": 66,
                 "owner": "daavoo",
                 "repo": "pyntcloud",
-                "stars": 1500
+                "stars": 1500,
+                "topics": [
+                  "3d",
+                  "3d-deep-learning",
+                  "3d-graphics",
+                  "3d-models",
+                  "3d-point-clouds",
+                  "deep-learning",
+                  "point-clouds",
+                  "python",
+                  "python-library"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -244,12 +365,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient analysis of large datasets of point clouds recorded over time",
+                "homepage": "https://virtual-vehicle.github.io/pointcloudset/",
                 "id": 374983317,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-12T07:15:13Z",
+                "open_issues": 12,
                 "owner": "virtual-vehicle",
                 "repo": "pointcloudset",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "4d-point-cloud",
+                  "convert",
+                  "las",
+                  "lidar",
+                  "lidar-point-cloud",
+                  "livox",
+                  "open3d",
+                  "ouster",
+                  "point-cloud",
+                  "pointcloud",
+                  "python",
+                  "riegl",
+                  "ros",
+                  "ros2",
+                  "rosbag",
+                  "rostopic",
+                  "time-series",
+                  "time-series-analysis",
+                  "velodyne-sensor"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -267,12 +413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "efficient tools for LiDAR processing",
+                "homepage": null,
                 "id": 25419858,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T20:07:07Z",
+                "open_issues": 59,
                 "owner": "LAStools",
                 "repo": "LAStools",
-                "stars": 1065
+                "stars": 1065,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -296,12 +447,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open autonomous driving platform",
+                "homepage": null,
                 "id": 96246170,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-16T12:24:54Z",
+                "open_issues": 1045,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26807
+                "stars": 26807,
+                "topics": [
+                  "apollo",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autonomy",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -319,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the main repository of the ALFA framework project! Jump here to start developping with ALFA.",
+                "homepage": null,
                 "id": 526567401,
                 "language": "Verilog",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-16T12:59:32Z",
+                "open_issues": 0,
                 "owner": "alfa-project",
                 "repo": "alfa-framework",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -350,12 +517,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics",
+                    "homepage": "https://libpointmatcher.readthedocs.io/en/latest/",
                     "id": 1266625,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-27T14:20:25Z",
+                    "open_issues": 100,
                     "owner": "norlab-ulaval",
                     "repo": "libpointmatcher",
-                    "stars": 1829
+                    "stars": 1829,
+                    "topics": [
+                      "libnabo",
+                      "libpointmatcher",
+                      "lidar",
+                      "point-clouds",
+                      "robotics",
+                      "ros",
+                      "ubuntu"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 },
@@ -366,12 +546,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementations of a rather simple version of the Iterative Closest Point algorithm in various languages.",
+                    "homepage": null,
                     "id": 265183697,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-08T09:32:15Z",
+                    "open_issues": 0,
                     "owner": "pglira",
                     "repo": "simpleICP",
-                    "stars": 350
+                    "stars": 350,
+                    "topics": [
+                      "computer-vision",
+                      "iterative-closest-point",
+                      "point-cloud",
+                      "point-cloud-processing",
+                      "point-cloud-registration",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -389,12 +581,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A LiDAR odometry pipeline that just works",
+                    "homepage": "https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/vizzo2023ral.pdf",
                     "id": 536134468,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-06-09T14:20:13Z",
+                    "open_issues": 18,
                     "owner": "PRBonn",
                     "repo": "kiss-icp",
-                    "stars": 2306
+                    "stars": 2306,
+                    "topics": [
+                      "3d-mapping",
+                      "icp",
+                      "lidar-slam",
+                      "robotics",
+                      "ros",
+                      "ros2",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -419,12 +624,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inference module for RangeNet++ (milioto2019iros, chen2019iros)",
+                    "homepage": null,
                     "id": 214201447,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2022-07-11T09:33:33Z",
+                    "open_issues": 13,
                     "owner": "PRBonn",
                     "repo": "rangenet_lib",
-                    "stars": 359
+                    "stars": 359,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -442,12 +652,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation for PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation (CVPR 2020)",
+                    "homepage": null,
                     "id": 229334809,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-05-19T17:08:17Z",
+                    "open_issues": 27,
                     "owner": "edwardzhou130",
                     "repo": "PolarSeg",
-                    "stars": 419
+                    "stars": 419,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -465,12 +680,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Frustum PointNets for 3D Object Detection from RGB-D Data",
+                    "homepage": null,
                     "id": 128236911,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-03-24T20:42:38Z",
+                    "open_issues": 90,
                     "owner": "charlesq34",
                     "repo": "frustum-pointnets",
-                    "stars": 1669
+                    "stars": 1669,
+                    "topics": [
+                      "3d",
+                      "deep-learning",
+                      "object-detection",
+                      "point-cloud",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -488,12 +714,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021)",
+                    "homepage": null,
                     "id": 378589251,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-21T12:52:58Z",
+                    "open_issues": 15,
                     "owner": "PRBonn",
                     "repo": "LiDAR-MOS",
-                    "stars": 690
+                    "stars": 690,
+                    "topics": [
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "dynamic-slam",
+                      "lidar",
+                      "lidar-slam",
+                      "mapping",
+                      "motion-detection",
+                      "moving-object-segmentation",
+                      "point-cloud",
+                      "segmentation",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -511,12 +754,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs",
+                    "homepage": null,
                     "id": 111715635,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-19T20:50:48Z",
+                    "open_issues": 16,
                     "owner": "loicland",
                     "repo": "superpoint_graph",
-                    "stars": 800
+                    "stars": 800,
+                    "topics": [
+                      "clustering",
+                      "large-scale",
+                      "lidar",
+                      "partition",
+                      "ply-files",
+                      "point-cloud",
+                      "pytorch",
+                      "segmentation",
+                      "semantic",
+                      "semantic-segmentation",
+                      "superpoint-graphs"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -534,12 +794,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of Superpoint Transformer [ICCV'23], SuperCluster [3DV'24 Oral], and EZ-SP [ICRA'26]",
+                    "homepage": null,
                     "id": 654209013,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-21T16:42:35Z",
+                    "open_issues": 4,
                     "owner": "drprojects",
                     "repo": "superpoint_transformer",
-                    "stars": 1050
+                    "stars": 1050,
+                    "topics": [
+                      "3d",
+                      "3dv2024",
+                      "deep-learning",
+                      "efficient",
+                      "fast",
+                      "graph-clustering",
+                      "hierarchical",
+                      "iccv2023",
+                      "lightweight",
+                      "panoptic-segmentation",
+                      "partition",
+                      "partitioning",
+                      "point-cloud",
+                      "pytorch",
+                      "semantic-segmentation",
+                      "superpoint",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -557,12 +840,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥RandLA-Net in Tensorflow (CVPR 2020, Oral & IEEE TPAMI 2021)",
+                    "homepage": null,
                     "id": 224029310,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-11T22:42:23Z",
+                    "open_issues": 194,
                     "owner": "QingyongHu",
                     "repo": "RandLA-Net",
-                    "stars": 1561
+                    "stars": 1561,
+                    "topics": [
+                      "3d-vision",
+                      "computer-vision",
+                      "s3dis",
+                      "semantic-segmentation",
+                      "semantic3d",
+                      "semantickitti"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -580,12 +875,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.",
+                    "homepage": null,
                     "id": 376015896,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-02-15T10:06:42Z",
+                    "open_issues": 4,
                     "owner": "Amsterdam-AI-Team",
                     "repo": "Urban_PointCloud_Processing",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": [
+                      "2d-data",
+                      "3d-data",
+                      "classification",
+                      "data-fusion",
+                      "gis",
+                      "labelling",
+                      "lidar-point-cloud",
+                      "point-cloud",
+                      "segmentation",
+                      "semantic-segmentation",
+                      "topographic-maps"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -605,12 +917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plane Segmentation Utilites",
+                "homepage": null,
                 "id": 221201420,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-12-08T18:10:50Z",
+                "open_issues": 3,
                 "owner": "ori-drs",
                 "repo": "plane_seg",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             },
@@ -626,12 +943,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ground Segmentation from Lidar Point Clouds",
+                    "homepage": null,
                     "id": 71766082,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-07-26T16:25:41Z",
+                    "open_issues": 5,
                     "owner": "lorenwel",
                     "repo": "linefit_ground_segmentation",
-                    "stars": 808
+                    "stars": 808,
+                    "topics": [
+                      "lidar",
+                      "ros",
+                      "segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -649,12 +975,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SOTA fast and robust ground segmentation using 3D point cloud (accepted in RA-L'21 w/ IROS'21)",
+                    "homepage": null,
                     "id": 377702573,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-05-21T10:28:45Z",
+                    "open_issues": 0,
                     "owner": "LimHyungTae",
                     "repo": "patchwork",
-                    "stars": 588
+                    "stars": 588,
+                    "topics": [
+                      "3dpointcloud",
+                      "autonomous-driving",
+                      "autonomous-vehicles",
+                      "ground-estimation",
+                      "ground-estimator",
+                      "ground-segmentation",
+                      "lidar",
+                      "ros"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -672,12 +1012,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ROS & ROS2 Implementation of Patchwork++",
+                    "homepage": null,
                     "id": 518067145,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-21T03:16:07Z",
+                    "open_issues": 5,
                     "owner": "url-kaist",
                     "repo": "patchwork-plusplus-ros",
-                    "stars": 449
+                    "stars": 449,
+                    "topics": [
+                      "3d-point-cloud",
+                      "ground",
+                      "ground-removal",
+                      "ground-segmentation",
+                      "lidar",
+                      "point-cloud",
+                      "ros",
+                      "segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -695,12 +1049,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ROS2 wrapper for the ground_segmentation library",
+                    "homepage": null,
                     "id": 1162480312,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-28T16:30:54Z",
+                    "open_issues": 0,
                     "owner": "dfki-ric",
                     "repo": "ground_segmentation_ros2",
-                    "stars": 106
+                    "stars": 106,
+                    "topics": [
+                      "3d-lidar",
+                      "autonomous-car",
+                      "autonomous-driving",
+                      "ground-detection",
+                      "ground-segmentation",
+                      "lidar",
+                      "lidar-point-cloud",
+                      "robotics",
+                      "ros2",
+                      "ros2-humble",
+                      "ros2-jazzy"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 },
@@ -711,12 +1082,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A C++ library for ground segmentation of a pointcloud",
+                    "homepage": "https://dfki-ric.github.io/ground_segmentation/",
                     "id": 1162479933,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-28T16:04:27Z",
+                    "open_issues": 0,
                     "owner": "dfki-ric",
                     "repo": "ground_segmentation",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": [
+                      "3d-lidar",
+                      "autonomous-car",
+                      "autonomous-driving",
+                      "grid-map",
+                      "ground-detection",
+                      "ground-removal",
+                      "ground-segmentation",
+                      "lidar",
+                      "lidar-point-cloud",
+                      "robotics",
+                      "ros2",
+                      "ros2-humble",
+                      "ros2-jazzy"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -736,12 +1126,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+                "homepage": null,
                 "id": 64732358,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
+                "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7950
+                "stars": 7951,
+                "topics": [
+                  "localization",
+                  "mapping",
+                  "robotics",
+                  "self-driving",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             },
@@ -757,24 +1158,50 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LeGO-LOAM-SR: optimizer Lidar Odometry and Mapping for ROS2",
+                    "homepage": null,
                     "id": 245375842,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-04-11T06:37:37Z",
+                    "open_issues": 2,
                     "owner": "eperdices",
                     "repo": "LeGO-LOAM-SR",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain",
+                "homepage": null,
                 "id": 139863328,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-17T07:20:25Z",
+                "open_issues": 40,
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "LeGO-LOAM",
-                "stars": 2753
+                "stars": 2753,
+                "topics": [
+                  "gtsam",
+                  "ieee",
+                  "imu",
+                  "iros",
+                  "isam",
+                  "jackal",
+                  "lidar",
+                  "lidar-odometry",
+                  "loam",
+                  "mapping",
+                  "odometry",
+                  "ros",
+                  "slam",
+                  "ugv",
+                  "velodyne"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             },
@@ -790,12 +1217,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SuMa++: Efficient LiDAR-based Semantic SLAM (Chen et al IROS 2019)",
+                    "homepage": null,
                     "id": 199056069,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-03-12T16:31:46Z",
+                    "open_issues": 5,
                     "owner": "PRBonn",
                     "repo": "semantic_suma",
-                    "stars": 1015
+                    "stars": 1015,
+                    "topics": [
+                      "3d-lidar",
+                      "lidar",
+                      "rangenet-lib",
+                      "semantic",
+                      "slam",
+                      "suma",
+                      "suma-plus-plus"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -813,12 +1253,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OverlapNet - Loop Closing for 3D LiDAR-based SLAM (chen2020rss)",
+                    "homepage": null,
                     "id": 263319282,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-24T22:59:34Z",
+                    "open_issues": 8,
                     "owner": "PRBonn",
                     "repo": "OverlapNet",
-                    "stars": 734
+                    "stars": 734,
+                    "topics": [
+                      "3d-lidar",
+                      "lidar",
+                      "loop-closing",
+                      "loop-closure-detection",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -836,12 +1287,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+                    "homepage": null,
                     "id": 276269866,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-02-14T10:05:51Z",
+                    "open_issues": 183,
                     "owner": "TixiaoShan",
                     "repo": "LIO-SAM",
-                    "stars": 4899
+                    "stars": 4899,
+                    "topics": [
+                      "3d-mapping",
+                      "lidar-inertial",
+                      "lidar-odometry",
+                      "lidar-slam",
+                      "loam-velodyne",
+                      "ouster",
+                      "ouster-slam",
+                      "slam",
+                      "velodyne",
+                      "velodyne-slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -859,12 +1326,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Remove then revert (IROS 2020) ",
+                    "homepage": null,
                     "id": 290675975,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-04-25T22:50:25Z",
+                    "open_issues": 18,
                     "owner": "gisbi-kim",
                     "repo": "removert",
-                    "stars": 647
+                    "stars": 647,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -882,12 +1354,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The first 6-DoF spline-based recursive motion esimator for LiDAR-based odometry",
+                    "homepage": null,
                     "id": 967000652,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-18T21:13:02Z",
+                    "open_issues": 4,
                     "owner": "ASIG-X",
                     "repo": "RESPLE",
-                    "stars": 229
+                    "stars": 229,
+                    "topics": [
+                      "continuous-time",
+                      "lidar",
+                      "lidar-inertial-odometry",
+                      "lidar-odometry",
+                      "multi-lidar-inertial-odometry",
+                      "real-time",
+                      "ros",
+                      "ros2",
+                      "sensor-fusion",
+                      "slam",
+                      "solid-state-lidar",
+                      "state-estimation"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -905,12 +1395,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A LiDAR SLAM system that just works",
+                    "homepage": "https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/kiss2025iros.pdf",
                     "id": 949854882,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T08:25:26Z",
+                    "open_issues": 2,
                     "owner": "PRBonn",
                     "repo": "kiss-slam",
-                    "stars": 530
+                    "stars": 530,
+                    "topics": [
+                      "lidar",
+                      "lidar-slam",
+                      "mapping",
+                      "perception",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -928,12 +1430,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A computationally efficient and robust LiDAR-inertial odometry (LIO) package",
+                    "homepage": null,
                     "id": 303308200,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-01-15T10:23:34Z",
+                    "open_issues": 0,
                     "owner": "hku-mars",
                     "repo": "FAST_LIO",
-                    "stars": 5107
+                    "stars": 5108,
+                    "topics": [
+                      "lidar-odometry",
+                      "livox-avia-lidar"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -951,12 +1461,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Modular Optimization framework for Localization and mApping (MOLA)",
+                    "homepage": "https://docs.mola-slam.org/latest/",
                     "id": 156289428,
                     "language": "C++",
-                    "last_commit": "2026-08-28T16:45:24Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T23:44:44Z",
+                    "open_issues": 32,
                     "owner": "MOLAorg",
                     "repo": "mola",
-                    "stars": 999
+                    "stars": 999,
+                    "topics": [
+                      "computer-vision",
+                      "cxx",
+                      "cxx17",
+                      "datasets",
+                      "graph-slam",
+                      "lidar",
+                      "lidar-point-cloud",
+                      "localization",
+                      "mobile-robots",
+                      "slam",
+                      "toolkit",
+                      "visual-slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -981,12 +1509,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning to Optimally Segment Point Clouds, RAL/ICRA 2020",
+                    "homepage": null,
                     "id": 240370523,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-04-09T12:21:08Z",
+                    "open_issues": 4,
                     "owner": "peiyunh",
                     "repo": "opcseg",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -1004,12 +1537,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WYSIWYG: Exploiting Visibility for 3D Object Detection, CVPR 2020 (Oral)",
+                    "homepage": "https://www.cs.cmu.edu/~peiyunh/wysiwyg/",
                     "id": 228275778,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-10-23T20:57:46Z",
+                    "open_issues": 2,
                     "owner": "peiyunh",
                     "repo": "wysiwyg",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -1027,12 +1565,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles 🚗",
+                    "homepage": "https://jkk-research.github.io/urban_road_filter/",
                     "id": 374577863,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-06T10:50:51Z",
+                    "open_issues": 4,
                     "owner": "jkk-research",
                     "repo": "urban_road_filter",
-                    "stars": 357
+                    "stars": 357,
+                    "topics": [
+                      "autonomous-driving",
+                      "filter",
+                      "lidar",
+                      "lidar-filter",
+                      "point-cloud",
+                      "road-segmentation",
+                      "ros",
+                      "ros2",
+                      "ros2-humble",
+                      "ros2-jazzy",
+                      "self-driving-car",
+                      "shell-eco-marathon",
+                      "sze",
+                      "szenergy"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -1052,12 +1610,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving",
+                "homepage": null,
                 "id": 436532699,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-17T09:06:58Z",
+                "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3205
+                "stars": 3205,
+                "topics": [
+                  "autonomous-driving",
+                  "calibration",
+                  "sensor"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             },
@@ -1073,12 +1640,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A toolbox for target-less LiDAR-camera calibration [ROS1/ROS2]",
+                    "homepage": "https://koide3.github.io/direct_visual_lidar_calibration/",
                     "id": 535907213,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-07-22T00:13:43Z",
+                    "open_issues": 72,
                     "owner": "koide3",
                     "repo": "direct_visual_lidar_calibration",
-                    "stars": 1508
+                    "stars": 1508,
+                    "topics": [
+                      "calibration",
+                      "camera",
+                      "lidar",
+                      "nid",
+                      "ros",
+                      "ros2"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:24:11.926Z"
                 }
@@ -1107,24 +1686,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSSDC SIM - Self Driving Car Simulator based of LGSVL",
+                "homepage": null,
                 "id": 498933067,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-10T22:06:10Z",
+                "open_issues": 20,
                 "owner": "OSSDC",
                 "repo": "OSSDC-SIM",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "OSSDC SIM - Self Driving Car Simulator based of LGSVL",
+            "homepage": null,
             "id": 498933067,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-10T22:06:10Z",
+            "open_issues": 20,
             "owner": "OSSDC",
             "repo": "OSSDC-SIM",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1140,12 +1729,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim",
+                "homepage": "http://classic.gazebosim.org/",
                 "id": 256913495,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-03T13:17:30Z",
+                "open_issues": 1477,
                 "owner": "gazebosim",
                 "repo": "gazebo-classic",
-                "stars": 1350
+                "stars": 1350,
+                "topics": [
+                  "gazebo",
+                  "gazebo-simulator",
+                  "gui",
+                  "hacktoberfest",
+                  "physics",
+                  "rendering",
+                  "robot-simulation",
+                  "robot-simulator",
+                  "robotics",
+                  "robotics-competition",
+                  "robotics-simulation",
+                  "ros",
+                  "ros2",
+                  "simulation",
+                  "simulation-environment",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1163,12 +1774,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source simulator for autonomous driving research.",
+                "homepage": "http://carla.org",
                 "id": 108102826,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:56:49Z",
+                "open_issues": 1195,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14334
+                "stars": 14335,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "carla",
+                  "carla-simulator",
+                  "computer-vision",
+                  "cross-platform",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "imitation-learning",
+                  "research",
+                  "ros",
+                  "self-driving-car",
+                  "simulator",
+                  "ue4",
+                  "unreal-engine-4"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1186,12 +1820,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles",
+                "homepage": null,
                 "id": 139499767,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-04T21:17:55Z",
+                "open_issues": 628,
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2458
+                "stars": 2458,
+                "topics": [
+                  "3d",
+                  "airsim",
+                  "api",
+                  "artificial-intelligence",
+                  "autonomous",
+                  "autoware",
+                  "baidu",
+                  "carla",
+                  "computer-vision",
+                  "csharp",
+                  "deep-learning",
+                  "game-engine",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "ros",
+                  "self-driving-car",
+                  "simulator",
+                  "tensorflow",
+                  "unity",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1209,12 +1869,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+                "homepage": "https://microsoft.github.io/AirSim/",
                 "id": 81887991,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T19:34:07Z",
+                "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18427
+                "stars": 18427,
+                "topics": [
+                  "ai",
+                  "airsim",
+                  "artificial-intelligence",
+                  "autonomous-quadcoptor",
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "control-systems",
+                  "cross-platform",
+                  "deep-reinforcement-learning",
+                  "deeplearning",
+                  "drones",
+                  "pixhawk",
+                  "platform-independent",
+                  "research",
+                  "self-driving-car",
+                  "simulator",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1232,12 +1915,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open sourced digital twin simulator for Autoware",
+                "homepage": "https://autowarefoundation.github.io/AWSIM/",
                 "id": 551179179,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-13T23:00:51Z",
+                "open_issues": 21,
                 "owner": "autowarefoundation",
                 "repo": "AWSIM",
-                "stars": 737
+                "stars": 737,
+                "topics": [
+                  "autonomous-driving",
+                  "autoware",
+                  "ros2",
+                  "unity"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1256,12 +1949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74198
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1272,12 +1970,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28824
+            "stars": 28828,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1288,12 +2001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1304,12 +2022,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+            "homepage": "https://aiengineer.co",
             "id": 29906842,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T08:12:01Z",
+            "open_issues": 72,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16237
+            "stars": 16239,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "deep-learning",
+              "intelligent-machines",
+              "intelligent-systems",
+              "machine-intelligence",
+              "machine-learning",
+              "neural-network",
+              "reinforcement-learning",
+              "statistical-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1320,12 +2055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement learning resources curated",
+            "homepage": "http://aikorea.org/awesome-rl",
             "id": 40465212,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-25T22:25:44Z",
+            "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9922
+            "stars": 9924,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1336,12 +2076,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+            "homepage": null,
             "id": 64177015,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T18:43:02Z",
+            "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8071
+            "stars": 8071,
+            "topics": [
+              "altium",
+              "awesome",
+              "eagle",
+              "electronics",
+              "gerber",
+              "hardware",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1352,12 +2106,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Robotics resources",
+            "homepage": null,
             "id": 46938122,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
+            "open_issues": 38,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6986
+            "stars": 6986,
+            "topics": [
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1368,12 +2129,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
+            "homepage": null,
             "id": 64367335,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-30T00:29:18Z",
+            "open_issues": 3,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4532
+            "stars": 4533,
+            "topics": [
+              "automotive",
+              "awesome",
+              "awesome-list",
+              "car-hacking",
+              "cars",
+              "cybersecurity",
+              "hacking",
+              "hacking-vehicles",
+              "hardware",
+              "learning",
+              "security",
+              "vehicle-security"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1384,12 +2163,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of papers and datasets about point cloud analysis (processing)",
+            "homepage": null,
             "id": 183274427,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-19T04:34:48Z",
+            "open_issues": 3,
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
-            "stars": 4219
+            "stars": 4219,
+            "topics": [
+              "3d-graphics",
+              "3d-reconstruction",
+              "3d-registration",
+              "3d-representation",
+              "point-cloud-classification",
+              "point-cloud-dataset",
+              "point-cloud-detection",
+              "point-cloud-processing",
+              "point-cloud-recognition",
+              "point-cloud-registration",
+              "point-cloud-segmentation",
+              "point-clouds",
+              "point-set-registration"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1400,12 +2198,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of robotics libraries and software",
+            "homepage": "http://jslee02.github.io/awesome-robotics-libraries/",
             "id": 56404753,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T20:20:58Z",
+            "open_issues": 17,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3027
+            "stars": 3027,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "machine-learning",
+              "motion-planning",
+              "multibody-dynamics",
+              "optimization",
+              "robotics",
+              "robotics-libraries",
+              "robotics-library",
+              "robotics-simulation",
+              "simulation",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1416,12 +2232,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Robot Operating System Version 2.0 is awesome!",
+            "homepage": "https://fkromer.github.io/awesome-ros2",
             "id": 105514647,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-18T07:40:50Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2133
+            "stars": 2133,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1432,12 +2257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome datasets for SLAM",
+            "homepage": null,
             "id": 133256832,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-13T04:29:23Z",
+            "open_issues": 14,
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1944
+            "stars": 1944,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1448,12 +2278,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
+            "homepage": "https://szenergy.github.io/awesome-lidar/",
             "id": 255347464,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-16T09:19:48Z",
+            "open_issues": 0,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1332
+            "stars": 1332,
+            "topics": [
+              "3d",
+              "3d-lidar",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "lidar",
+              "obstacle-detection",
+              "point-cloud",
+              "pointcloud",
+              "simulator",
+              "slam",
+              "sze",
+              "szegyetem",
+              "szenergy"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1464,12 +2314,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of LiDAR-Camera-Calibration Papers, Toolboxes and Notes ",
+            "homepage": null,
             "id": 373033266,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-20T01:42:49Z",
+            "open_issues": 1,
             "owner": "Deephome",
             "repo": "Awesome-LiDAR-Camera-Calibration",
-            "stars": 1268
+            "stars": 1268,
+            "topics": [
+              "lidar-camera",
+              "lidar-camera-calibration",
+              "lidar-camera-fusion"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1480,12 +2339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM",
+            "homepage": null,
             "id": 828727289,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-08T08:06:12Z",
+            "open_issues": 0,
             "owner": "sjtuyinjie",
             "repo": "awesome-LiDAR-Visual-SLAM",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1496,12 +2360,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
+            "homepage": null,
             "id": 774038484,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-10-02T00:29:04Z",
+            "open_issues": 0,
             "owner": "hogyun2",
             "repo": "awesome-lidar-place-recognition",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "datasets",
+              "lidar",
+              "place-recognition",
+              "point-cloud",
+              "robotics",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1512,12 +2390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Point Cloud Moving Object Segmentation",
+            "homepage": null,
             "id": 825506334,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-06T12:45:39Z",
+            "open_issues": 0,
             "owner": "neng-wang",
             "repo": "Awesome-LiDAR-MOS",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         }
@@ -1534,12 +2417,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web labeling tool for bitmap images and point clouds",
+            "homepage": null,
             "id": 142265725,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-18T15:04:01Z",
+            "open_issues": 62,
             "owner": "Hitachi-Automotive-And-Industry-Lab",
             "repo": "semantic-segmentation-editor",
-            "stars": 1970
+            "stars": 1970,
+            "topics": [
+              "image-labeling",
+              "image-labeling-tool",
+              "labeling-tool",
+              "machine-learning",
+              "manual-annotations",
+              "pcd",
+              "pointcloud",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1550,12 +2447,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Point cloud importer & renderer for Unity",
+            "homepage": null,
             "id": 108152107,
             "language": "C#",
+            "license": "Unlicense",
             "last_commit": "2022-08-23T11:11:53Z",
+            "open_issues": 25,
             "owner": "keijiro",
             "repo": "Pcx",
-            "stars": 1514
+            "stars": 1514,
+            "topics": [
+              "3d-scan",
+              "graphics",
+              "point-cloud",
+              "shader",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1566,12 +2475,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Addon to import different photogrammetry formats into Blender",
+            "homepage": null,
             "id": 99435028,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-16T15:04:38Z",
+            "open_issues": 12,
             "owner": "SBCV",
             "repo": "Blender-Addon-Photogrammetry-Importer",
-            "stars": 1357
+            "stars": 1357,
+            "topics": [
+              "agisoft-metashape",
+              "blender",
+              "blender-addon",
+              "colmap",
+              "meshroom",
+              "mve",
+              "open3d",
+              "openmvg",
+              "opensfm",
+              "photogrammetry",
+              "sfm",
+              "structure-from-motion"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1582,12 +2509,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "blender python scripts",
+            "homepage": null,
             "id": 20754248,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-04T22:23:57Z",
+            "open_issues": 0,
             "owner": "uhlik",
             "repo": "bpy",
-            "stars": 1082
+            "stars": 1082,
+            "topics": [
+              "addon",
+              "blender",
+              "blender-addon",
+              "blender-scripts",
+              "opengl",
+              "photogrammetry",
+              "ply-files",
+              "point-cloud",
+              "point-cloud-visualizer",
+              "time-tracker",
+              "uv-mapping",
+              "wavefront-obj",
+              "zbrush"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1598,12 +2544,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling",
+            "homepage": null,
             "id": 153326558,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-07T21:28:53Z",
+            "open_issues": 47,
             "owner": "walzimmer",
             "repo": "3d-bat",
-            "stars": 818
+            "stars": 819,
+            "topics": [
+              "2d",
+              "3d",
+              "3d-object-detection",
+              "active-learning",
+              "annotation",
+              "automatic",
+              "autonomous-driving",
+              "bounding-box",
+              "detection",
+              "interpolation",
+              "javascript",
+              "mechanical-turk",
+              "multi-platform",
+              "multi-view",
+              "point-cloud",
+              "pointcloud",
+              "semi-automatic",
+              "surround",
+              "tool",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1614,12 +2586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prepare pointclouds from aerial LIDAR scans for 3D printing",
+            "homepage": null,
             "id": 139361086,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-01-17T00:58:10Z",
+            "open_issues": 0,
             "owner": "marian42",
             "repo": "pointcloudprinter",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1630,12 +2607,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Using $5 Google Cardboard to replicate HoloLens",
+            "homepage": "https://sites.google.com/view/arheadsetkit",
             "id": 403791515,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-01T23:45:13Z",
+            "open_issues": 3,
             "owner": "philipturner",
             "repo": "ARHeadsetKit",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "augmented-reality",
+              "docc",
+              "google-cardboard",
+              "gpgpu",
+              "ios",
+              "metal",
+              "swift",
+              "virtual-reality"
+            ]
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1651,24 +2642,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CloudPeek is a lightweight, cross-platform, single-header C++ point cloud viewer. It’s designed for simplicity and efficiency, requiring no heavy libraries like PCL or Open3D. Ideal for visualizing and interacting with 3D data from LiDAR, photogrammetry, or other datasets, CloudPeek delivers powerful, real-time exploration in a minimalistic package",
+                "homepage": null,
                 "id": 875611794,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-10-20T19:56:35Z",
+                "open_issues": 0,
                 "owner": "Geekgineer",
                 "repo": "CloudPeek",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "CloudPeek is a lightweight, cross-platform, single-header C++ point cloud viewer. It’s designed for simplicity and efficiency, requiring no heavy libraries like PCL or Open3D. Ideal for visualizing and interacting with 3D data from LiDAR, photogrammetry, or other datasets, CloudPeek delivers powerful, real-time exploration in a minimalistic package",
+            "homepage": null,
             "id": 875611794,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-10-20T19:56:35Z",
+            "open_issues": 0,
             "owner": "Geekgineer",
             "repo": "CloudPeek",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
         },
@@ -1684,12 +2685,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Robotics visualization and debugging",
+                "homepage": "https://foxglove.dev/download",
                 "id": 830659305,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-18T21:29:12Z",
+                "open_issues": 0,
                 "owner": "foxglove",
                 "repo": "studio",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "mcap",
+                  "robotics",
+                  "ros",
+                  "ros2",
+                  "rosbag",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1707,12 +2720,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lichtblick is an integrated visualization and diagnosis tool for robotics, available in your browser or as a desktop app on Linux, Windows, and macOS.",
+                "homepage": null,
                 "id": 750808157,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T10:27:01Z",
+                "open_issues": 39,
                 "owner": "lichtblick-suite",
                 "repo": "lichtblick",
-                "stars": 1083
+                "stars": 1083,
+                "topics": [
+                  "mcap",
+                  "robotics",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1730,12 +2752,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualize, query, and stream to train on multimodal robotics data.",
+                "homepage": "https://rerun.io/",
                 "id": 479289739,
                 "language": "Rust",
-                "last_commit": "2026-08-28T14:22:01Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:24:32Z",
+                "open_issues": 1277,
                 "owner": "rerun-io",
                 "repo": "rerun",
-                "stars": 11367
+                "stars": 11369,
+                "topics": [
+                  "computer-vision",
+                  "cpp",
+                  "multimodal",
+                  "python",
+                  "robotics",
+                  "rust",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1753,12 +2788,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open source mesh processing system",
+                "homepage": "http://www.meshlab.net",
                 "id": 73027304,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T20:38:52Z",
+                "open_issues": 194,
                 "owner": "cnr-isti-vclab",
                 "repo": "meshlab",
-                "stars": 5804
+                "stars": 5804,
+                "topics": [
+                  "3d",
+                  "3d-models",
+                  "3d-printing",
+                  "3d-reconstruction",
+                  "3d-scanning",
+                  "mesh",
+                  "mesh-editing",
+                  "mesh-generation",
+                  "mesh-processing",
+                  "mesh-simplification",
+                  "point-cloud",
+                  "triangle-mesh"
+                ]
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
             }
@@ -1769,15 +2822,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:24:11.926Z",
+    "last_updated": "2026-08-29T04:34:34.107Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
+      "homepage": "https://szenergy.github.io/awesome-lidar/",
       "id": 255347464,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-16T09:19:48Z",
+      "open_issues": 0,
       "owner": "szenergy",
       "repo": "awesome-lidar",
-      "stars": 1332
+      "stars": 1332,
+      "topics": [
+        "3d",
+        "3d-lidar",
+        "autonomous-driving",
+        "awesome",
+        "awesome-list",
+        "lidar",
+        "obstacle-detection",
+        "point-cloud",
+        "pointcloud",
+        "simulator",
+        "slam",
+        "sze",
+        "szegyetem",
+        "szenergy"
+      ]
     },
     "original_repository_sha": "35b8c40694f878a1710d3a1fecee7cbd73917301",
     "enhanced_repository": "enhansome/enhansome-lidar",
