@@ -107,7 +107,7 @@
                 "open_issues": 572,
                 "owner": "PointCloudLibrary",
                 "repo": "pcl",
-                "stars": 11131,
+                "stars": 11133,
                 "topics": [
                   "c-plus-plus",
                   "computer-vision",
@@ -142,7 +142,7 @@
                 "open_issues": 1333,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13995,
+                "stars": 13999,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -191,7 +191,7 @@
                 "open_issues": 1347,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24098,
+                "stars": 24099,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -225,7 +225,7 @@
                 "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9969,
+                "stars": 9971,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
@@ -291,11 +291,11 @@
                 "id": 92974124,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T07:31:16Z",
-                "open_issues": 511,
+                "last_commit": "2026-09-26T06:59:33Z",
+                "open_issues": 510,
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3825,
+                "stars": 3828,
                 "topics": [
                   "3d",
                   "finite-element-analysis",
@@ -419,7 +419,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T06:54:22Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "LAStools",
                 "repo": "LAStools",
                 "stars": 1070,
@@ -456,7 +456,7 @@
                 "open_issues": 1047,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26836,
+                "stars": 26837,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -846,7 +846,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2023-07-11T22:42:23Z",
-                    "open_issues": 194,
+                    "open_issues": 192,
                     "owner": "QingyongHu",
                     "repo": "RandLA-Net",
                     "stars": 1563,
@@ -1436,10 +1436,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2025-01-15T10:23:34Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "hku-mars",
                     "repo": "FAST_LIO",
-                    "stars": 5216,
+                    "stars": 5219,
                     "topics": [
                       "lidar-odometry",
                       "livox-avia-lidar"
@@ -1738,7 +1738,7 @@
                 "open_issues": 1477,
                 "owner": "gazebosim",
                 "repo": "gazebo-classic",
-                "stars": 1349,
+                "stars": 1350,
                 "topics": [
                   "gazebo",
                   "gazebo-simulator",
@@ -1779,11 +1779,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-25T09:17:08Z",
+                "last_commit": "2026-09-25T14:07:46Z",
                 "open_issues": 1203,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14429,
+                "stars": 14431,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1958,7 +1958,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74447,
+            "stars": 74456,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -1979,7 +1979,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28967,
+            "stars": 28976,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2031,7 +2031,7 @@
             "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16557,
+            "stars": 16560,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2064,7 +2064,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9981,
+            "stars": 9982,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -2085,7 +2085,7 @@
             "open_issues": 37,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8158,
+            "stars": 8163,
             "topics": [
               "altium",
               "awesome",
@@ -2115,7 +2115,7 @@
             "open_issues": 40,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7197,
+            "stars": 7200,
             "topics": [
               "robotics"
             ]
@@ -2172,7 +2172,7 @@
             "open_issues": 3,
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
-            "stars": 4223,
+            "stars": 4224,
             "topics": [
               "3d-graphics",
               "3d-reconstruction",
@@ -2207,7 +2207,7 @@
             "open_issues": 27,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3053,
+            "stars": 3057,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2587,7 +2587,7 @@
             "open_issues": 47,
             "owner": "walzimmer",
             "repo": "3d-bat",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "2d",
               "3d",
@@ -2759,11 +2759,11 @@
                 "id": 750808157,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T17:24:44Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-25T15:24:12Z",
+                "open_issues": 50,
                 "owner": "lichtblick-suite",
                 "repo": "lichtblick",
-                "stars": 1137,
+                "stars": 1140,
                 "topics": [
                   "mcap",
                   "robotics",
@@ -2791,11 +2791,11 @@
                 "id": 479289739,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T09:40:16Z",
-                "open_issues": 1257,
+                "last_commit": "2026-09-26T07:54:23Z",
+                "open_issues": 1256,
                 "owner": "rerun-io",
                 "repo": "rerun",
-                "stars": 11494,
+                "stars": 11497,
                 "topics": [
                   "computer-vision",
                   "cpp",
@@ -2831,7 +2831,7 @@
                 "open_issues": 195,
                 "owner": "cnr-isti-vclab",
                 "repo": "meshlab",
-                "stars": 5844,
+                "stars": 5845,
                 "topics": [
                   "3d",
                   "3d-models",
@@ -2856,7 +2856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:08:55.027Z",
+    "last_updated": "2026-09-26T09:49:43.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
