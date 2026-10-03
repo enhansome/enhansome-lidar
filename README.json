@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "Ford/AVData",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -60,7 +60,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "utiasASRL/pyboreas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -94,7 +94,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "bloom256/lasrs-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +163,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "PointCloudLibrary/pcl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,11 +172,11 @@
                 "id": 8162615,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T13:58:54Z",
+                "last_commit": "2026-10-02T12:44:06Z",
                 "open_issues": 575,
                 "owner": "PointCloudLibrary",
                 "repo": "pcl",
-                "stars": 11138,
+                "stars": 11139,
                 "topics": [
                   "c-plus-plus",
                   "computer-vision",
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "isl-org/Open3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
                 "open_issues": 1345,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14023,
+                "stars": 14024,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -247,7 +247,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "pyg-team/pytorch_geometric",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -257,10 +257,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T17:21:23Z",
-                "open_issues": 1359,
+                "open_issues": 1358,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24103,
+                "stars": 24104,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -281,7 +281,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "facebookresearch/pytorch3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "NVIDIAGameWorks/kaolin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,7 +351,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "pyvista/pyvista",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -360,8 +360,8 @@
                 "id": 92974124,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:01:14Z",
-                "open_issues": 510,
+                "last_commit": "2026-10-02T16:05:37Z",
+                "open_issues": 509,
                 "owner": "pyvista",
                 "repo": "pyvista",
                 "stars": 3831,
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "daavoo/pyntcloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "virtual-vehicle/pointcloudset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "LAStools/LAStools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
                 "open_issues": 68,
                 "owner": "LAStools",
                 "repo": "LAStools",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "ApolloAuto/apollo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
                 "open_issues": 1047,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26850,
+                "stars": 26849,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -546,7 +546,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "alfa-project/alfa-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -646,7 +646,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "PRBonn/kiss-icp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -689,7 +689,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "PRBonn/rangenet_lib",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -717,7 +717,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "edwardzhou130/PolarSeg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -745,7 +745,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "charlesq34/frustum-pointnets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -779,7 +779,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "PRBonn/LiDAR-MOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -819,7 +819,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "loicland/superpoint_graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -859,7 +859,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "drprojects/superpoint_transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -869,7 +869,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-04-21T16:42:35Z",
-                    "open_issues": 4,
+                    "open_issues": 6,
                     "owner": "drprojects",
                     "repo": "superpoint_transformer",
                     "stars": 1063,
@@ -905,7 +905,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "QingyongHu/RandLA-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -940,7 +940,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "Amsterdam-AI-Team/Urban_PointCloud_Processing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1008,7 +1008,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "lorenwel/linefit_ground_segmentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1040,7 +1040,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "LimHyungTae/patchwork",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1077,7 +1077,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "url-kaist/patchwork-plusplus-ros",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1114,7 +1114,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "dfki-ric/ground_segmentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1149,7 +1149,7 @@
                 {
                   "node_type": "item",
                   "title": "ROS2 integration",
-                  "description": null,
+                  "description": "dfki-ric/ground_segmentation_ros2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1223,7 +1223,7 @@
                 {
                   "node_type": "item",
                   "title": "ROS 2 verison on different repo: GitHub repository",
-                  "description": null,
+                  "description": "eperdices/LeGO-LOAM-SR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1282,7 +1282,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "PRBonn/semantic_suma",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1318,7 +1318,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "PRBonn/OverlapNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1352,7 +1352,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "TixiaoShan/LIO-SAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1391,7 +1391,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "gisbi-kim/removert",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1419,7 +1419,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "ASIG-X/RESPLE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1460,7 +1460,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "PRBonn/kiss-slam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1495,7 +1495,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "hku-mars/FAST_LIO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1505,10 +1505,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2025-01-15T10:23:34Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "hku-mars",
                     "repo": "FAST_LIO",
-                    "stars": 5235,
+                    "stars": 5236,
                     "topics": [
                       "lidar-odometry",
                       "livox-avia-lidar"
@@ -1526,7 +1526,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "MOLAorg/mola",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1574,7 +1574,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "peiyunh/opcseg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1602,7 +1602,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "peiyunh/wysiwyg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1630,7 +1630,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "jkk-research/urban_road_filter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1705,7 +1705,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository",
-                  "description": null,
+                  "description": "koide3/direct_visual_lidar_calibration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1751,7 +1751,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "OSSDC/OSSDC-SIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1794,7 +1794,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "gazebosim/gazebo-classic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1839,7 +1839,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "carla-simulator/carla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1848,11 +1848,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:38:59Z",
-                "open_issues": 1191,
+                "last_commit": "2026-10-03T00:24:39Z",
+                "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14452,
+                "stars": 14453,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1885,7 +1885,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "lgsvl/simulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1934,7 +1934,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "microsoft/AirSim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1980,7 +1980,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "autowarefoundation/AWSIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1993,7 +1993,7 @@
                 "open_issues": 21,
                 "owner": "autowarefoundation",
                 "repo": "AWSIM",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "autonomous-driving",
                   "autoware",
@@ -2014,7 +2014,7 @@
         {
           "node_type": "item",
           "title": "Awesome machine learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2027,7 +2027,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74507,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -2035,7 +2035,7 @@
         {
           "node_type": "item",
           "title": "Awesome deep learning",
-          "description": null,
+          "description": "ChristosChristofidis/awesome-deep-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2048,7 +2048,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29000,
+            "stars": 29002,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2066,7 +2066,7 @@
         {
           "node_type": "item",
           "title": "Awesome computer vision",
-          "description": null,
+          "description": "jbhuang0604/awesome-computer-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2087,7 +2087,7 @@
         {
           "node_type": "item",
           "title": "Awesome artificial intelligence",
-          "description": null,
+          "description": "owainlewis/awesome-artificial-intelligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2100,7 +2100,7 @@
             "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16598,
+            "stars": 16602,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2120,7 +2120,7 @@
         {
           "node_type": "item",
           "title": "Awesome reinforcement learning",
-          "description": null,
+          "description": "aikorea/awesome-rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2133,7 +2133,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10000,
+            "stars": 10001,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -2141,7 +2141,7 @@
         {
           "node_type": "item",
           "title": "Awesome electronics",
-          "description": null,
+          "description": "kitspace/awesome-electronics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2151,10 +2151,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-14T08:57:12Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8178,
+            "stars": 8180,
             "topics": [
               "altium",
               "awesome",
@@ -2171,7 +2171,7 @@
         {
           "node_type": "item",
           "title": "Awesome robotics",
-          "description": null,
+          "description": "kiloreux/awesome-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2194,7 +2194,7 @@
         {
           "node_type": "item",
           "title": "Awesome vehicle security and car hacking",
-          "description": null,
+          "description": "jaredthecoder/awesome-vehicle-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2207,7 +2207,7 @@
             "open_issues": 7,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4678,
+            "stars": 4681,
             "topics": [
               "automotive",
               "awesome",
@@ -2228,7 +2228,7 @@
         {
           "node_type": "item",
           "title": "Awesome point cloud analysis",
-          "description": null,
+          "description": "Yochengliu/awesome-point-cloud-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2263,7 +2263,7 @@
         {
           "node_type": "item",
           "title": "Awesome robotics libraries",
-          "description": null,
+          "description": "jslee02/awesome-robotics-libraries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2276,7 +2276,7 @@
             "open_issues": 28,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3066,
+            "stars": 3067,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2297,7 +2297,7 @@
         {
           "node_type": "item",
           "title": "Awesome ROS 2",
-          "description": null,
+          "description": "fkromer/awesome-ros2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2322,7 +2322,7 @@
         {
           "node_type": "item",
           "title": "Awesome SLAM datasets",
-          "description": null,
+          "description": "youngguncho/awesome-slam-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2342,44 +2342,8 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome LIDAR",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
-            "homepage": "https://szenergy.github.io/awesome-lidar/",
-            "id": 255347464,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-30T08:28:51Z",
-            "open_issues": 1,
-            "owner": "szenergy",
-            "repo": "awesome-lidar",
-            "stars": 1347,
-            "topics": [
-              "3d",
-              "3d-lidar",
-              "autonomous-driving",
-              "awesome",
-              "awesome-list",
-              "lidar",
-              "obstacle-detection",
-              "point-cloud",
-              "pointcloud",
-              "simulator",
-              "slam",
-              "sze",
-              "szegyetem",
-              "szenergy"
-            ]
-          },
-          "first_seen": "2026-08-28T17:24:11.926Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome LIDAR-Camera calibration",
-          "description": null,
+          "description": "Deephome/Awesome-LiDAR-Camera-Calibration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2404,7 +2368,7 @@
         {
           "node_type": "item",
           "title": "Awesome-LiDAR-Visual-SLAM",
-          "description": null,
+          "description": "sjtuyinjie/awesome-LiDAR-Visual-SLAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2425,7 +2389,7 @@
         {
           "node_type": "item",
           "title": "Awesome LiDAR Place Recognition",
-          "description": null,
+          "description": "hogyun2/awesome-lidar-place-recognition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2476,7 +2440,7 @@
         {
           "node_type": "item",
           "title": "Awesome AR",
-          "description": null,
+          "description": "danielcamposramos/awesome-ar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2587,7 +2551,7 @@
             "open_issues": 12,
             "owner": "SBCV",
             "repo": "Blender-Addon-Photogrammetry-Importer",
-            "stars": 1371,
+            "stars": 1372,
             "topics": [
               "agisoft-metashape",
               "blender",
@@ -2741,7 +2705,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "Geekgineer/CloudPeek",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2784,7 +2748,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "foxglove/studio",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2819,7 +2783,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "lichtblick-suite/lichtblick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2851,7 +2815,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "rerun-io/rerun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2860,11 +2824,11 @@
                 "id": 479289739,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:04:23Z",
+                "last_commit": "2026-10-02T11:31:11Z",
                 "open_issues": 1254,
                 "owner": "rerun-io",
                 "repo": "rerun",
-                "stars": 11529,
+                "stars": 11536,
                 "topics": [
                   "computer-vision",
                   "cpp",
@@ -2887,7 +2851,7 @@
             {
               "node_type": "item",
               "title": "GitHub repository",
-              "description": null,
+              "description": "cnr-isti-vclab/meshlab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2925,7 +2889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:03:41.294Z",
+    "last_updated": "2026-10-03T04:55:07.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
