@@ -72,7 +72,7 @@
                 "id": 1433848034,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-27T18:43:53Z",
+                "last_commit": "2026-11-05T20:13:58Z",
                 "open_issues": 0,
                 "owner": "erdilrf-afk",
                 "repo": "erdi-lrf-specs",
@@ -273,7 +273,7 @@
                 "open_issues": 577,
                 "owner": "PointCloudLibrary",
                 "repo": "pcl",
-                "stars": 11206,
+                "stars": 11208,
                 "topics": [
                   "c-plus-plus",
                   "computer-vision",
@@ -304,11 +304,11 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T10:06:02Z",
-                "open_issues": 1365,
+                "last_commit": "2026-11-05T18:33:08Z",
+                "open_issues": 1366,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14178,
+                "stars": 14179,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -353,11 +353,11 @@
                 "id": 106024057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T00:08:32Z",
-                "open_issues": 1382,
+                "last_commit": "2026-11-06T06:58:35Z",
+                "open_issues": 1383,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24133,
+                "stars": 24135,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -391,7 +391,7 @@
                 "open_issues": 325,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9992,
+                "stars": 9993,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
@@ -419,7 +419,7 @@
                 "open_issues": 17,
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
-                "stars": 5191,
+                "stars": 5192,
                 "topics": [
                   "3d-deep-learning",
                   "artificial-intelligence",
@@ -457,8 +457,8 @@
                 "id": 92974124,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T21:05:34Z",
-                "open_issues": 539,
+                "last_commit": "2026-11-06T00:13:13Z",
+                "open_issues": 542,
                 "owner": "pyvista",
                 "repo": "pyvista",
                 "stars": 3878,
@@ -588,7 +588,7 @@
                 "open_issues": 65,
                 "owner": "LAStools",
                 "repo": "LAStools",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:11.926Z"
@@ -622,7 +622,7 @@
                 "open_issues": 1050,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26891,
+                "stars": 26892,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -692,7 +692,7 @@
                     "open_issues": 101,
                     "owner": "norlab-ulaval",
                     "repo": "libpointmatcher",
-                    "stars": 1842,
+                    "stars": 1843,
                     "topics": [
                       "libnabo",
                       "libpointmatcher",
@@ -969,7 +969,7 @@
                     "open_issues": 5,
                     "owner": "drprojects",
                     "repo": "superpoint_transformer",
-                    "stars": 1069,
+                    "stars": 1070,
                     "topics": [
                       "3d",
                       "3dv2024",
@@ -1016,7 +1016,7 @@
                     "open_issues": 192,
                     "owner": "QingyongHu",
                     "repo": "RandLA-Net",
-                    "stars": 1567,
+                    "stars": 1569,
                     "topics": [
                       "3d-vision",
                       "computer-vision",
@@ -1225,7 +1225,7 @@
                     "open_issues": 0,
                     "owner": "dfki-ric",
                     "repo": "ground_segmentation_ros2",
-                    "stars": 120,
+                    "stars": 122,
                     "topics": [
                       "3d-lidar",
                       "autonomous-car",
@@ -1299,10 +1299,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
-                "open_issues": 241,
+                "open_issues": 240,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8001,
+                "stars": 8004,
                 "topics": [
                   "localization",
                   "mapping",
@@ -1351,7 +1351,7 @@
                 "open_issues": 40,
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "LeGO-LOAM",
-                "stars": 2769,
+                "stars": 2770,
                 "topics": [
                   "gtsam",
                   "ieee",
@@ -1606,7 +1606,7 @@
                     "open_issues": 4,
                     "owner": "hku-mars",
                     "repo": "FAST_LIO",
-                    "stars": 5346,
+                    "stars": 5350,
                     "topics": [
                       "lidar-odometry",
                       "livox-avia-lidar"
@@ -1633,11 +1633,11 @@
                     "id": 156289428,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-05T10:21:52Z",
+                    "last_commit": "2026-11-06T11:53:20Z",
                     "open_issues": 31,
                     "owner": "MOLAorg",
                     "repo": "mola",
-                    "stars": 1053,
+                    "stars": 1054,
                     "topics": [
                       "computer-vision",
                       "cxx",
@@ -1816,7 +1816,7 @@
                     "open_issues": 73,
                     "owner": "koide3",
                     "repo": "direct_visual_lidar_calibration",
-                    "stars": 1580,
+                    "stars": 1581,
                     "topics": [
                       "calibration",
                       "camera",
@@ -1946,11 +1946,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-05T13:05:29Z",
-                "open_issues": 1231,
+                "last_commit": "2026-11-06T12:01:59Z",
+                "open_issues": 1225,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14568,
+                "stars": 14573,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2122,10 +2122,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T16:30:10Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74755,
+            "stars": 74766,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -2146,7 +2146,7 @@
             "open_issues": 93,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29142,
+            "stars": 29148,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2198,7 +2198,7 @@
             "open_issues": 82,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16783,
+            "stars": 16791,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2231,7 +2231,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10030,
+            "stars": 10031,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -2252,7 +2252,7 @@
             "open_issues": 40,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8329,
+            "stars": 8334,
             "topics": [
               "altium",
               "awesome",
@@ -2282,7 +2282,7 @@
             "open_issues": 49,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7283,
+            "stars": 7285,
             "topics": [
               "robotics"
             ]
@@ -2305,7 +2305,7 @@
             "open_issues": 6,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4761,
+            "stars": 4765,
             "topics": [
               "automotive",
               "awesome",
@@ -2370,8 +2370,8 @@
             "id": 56404753,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-02T17:56:20Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T00:02:18Z",
+            "open_issues": 10,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
             "stars": 3107,
@@ -2621,7 +2621,7 @@
             "open_issues": 25,
             "owner": "keijiro",
             "repo": "Pcx",
-            "stars": 1522,
+            "stars": 1523,
             "topics": [
               "3d-scan",
               "graphics",
@@ -2649,7 +2649,7 @@
             "open_issues": 12,
             "owner": "SBCV",
             "repo": "Blender-Addon-Photogrammetry-Importer",
-            "stars": 1380,
+            "stars": 1379,
             "topics": [
               "agisoft-metashape",
               "blender",
@@ -2760,7 +2760,7 @@
             "open_issues": 0,
             "owner": "marian42",
             "repo": "pointcloudprinter",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:11.926Z"
@@ -2890,11 +2890,11 @@
                 "id": 750808157,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T16:15:11Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-06T12:15:35Z",
+                "open_issues": 66,
                 "owner": "lichtblick-suite",
                 "repo": "lichtblick",
-                "stars": 1206,
+                "stars": 1209,
                 "topics": [
                   "mcap",
                   "robotics",
@@ -2922,11 +2922,11 @@
                 "id": 479289739,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T13:03:41Z",
-                "open_issues": 1236,
+                "last_commit": "2026-11-06T12:10:39Z",
+                "open_issues": 1230,
                 "owner": "rerun-io",
                 "repo": "rerun",
-                "stars": 11698,
+                "stars": 11712,
                 "topics": [
                   "computer-vision",
                   "cpp",
@@ -2962,7 +2962,7 @@
                 "open_issues": 197,
                 "owner": "cnr-isti-vclab",
                 "repo": "meshlab",
-                "stars": 5902,
+                "stars": 5904,
                 "topics": [
                   "3d",
                   "3d-models",
@@ -2987,7 +2987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:07:00.136Z",
+    "last_updated": "2026-11-06T12:54:24.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
@@ -2999,7 +2999,7 @@
       "open_issues": 2,
       "owner": "szenergy",
       "repo": "awesome-lidar",
-      "stars": 1367,
+      "stars": 1368,
       "topics": [
         "3d",
         "3d-lidar",
